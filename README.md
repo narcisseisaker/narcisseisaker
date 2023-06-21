@@ -2,7 +2,12 @@ Je me nomme **MOSSY MOSSY Isaker Narcisse** et je suis développeur **_Full_ _St
 Actuellement, je travaille sur une **application de gestion des cinémas** en utilisant **Spring Boot, Angular et python** : Elle intègrera aussi un chat interactif par l'utilisation de l'API **Chat GPT** ainsi que le support de la **prédiction des ventes** grace à une API de prédiction qui sera obtenue par la transformation via **fastAPI du modèle de prédiction** conçu en utilsant **le machine learning en python** et qui sera donc interrogée par l'API de gestion des cinémas. 
 J'améliore aussi mon niveau d'Anglais.
 Passionné de l'autodidacte, je développe des applications pour monter en compétences, ce qui me permets d'être autonome et patient face aux diverses
-difficultées potentielles dans un environnement de travail. J'aime relever les défis et travailler dans une entreprise motivante respectant les droits et races humaines sans négliger le développement des compétences et la progression professionnelle.
+difficultées potentielles dans un environnement de travail. J'aime relever les défis et travailler dans une entreprise motivante respectant les droits et races humaines sans négliger le développement des compétences et la progression professionnelle. 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+  <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="narcisseisaker" data-version="v1">
+     <a class="badge-base__link LI-simple-link" href="https://cm.linkedin.com/in/narcisseisaker?trk=profile-badge">Isaker Narcisse MOSSY MOSSY</a>
+  </div>
+</script>
 
 <!---
 narcisseisaker/narcisseisaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
