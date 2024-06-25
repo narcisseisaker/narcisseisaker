@@ -1,4 +1,4 @@
-Je me nomme **MOSSY MOSSY Isaker Narcisse**, développeur **_Full_ _Stack_  _Java_ _8/17_, _Spring_ _Boot_ et _Angular 12/18_**, titulaire d'un **Master of Science en Réseaux et Services Distribués** obtenu à l'Université de Dschang au Cameroun. Je suis spécialisé dans le **développement d'applications distribuées** et m'intéresse à la **Business Intelligence** et au **Big Data**.
+Je suis un développeur **_Full_ _Stack_  _Java_ _8/17_, _Spring_ _Boot_ et _Angular 12/18_**, titulaire d'un **Master of Science en Réseaux et Services Distribués** obtenu à l'Université de Dschang au Cameroun. Je suis spécialisé dans le **développement d'applications distribuées** et m'intéresse à la **Business Intelligence** et au **Big Data**.
 Passionné de l'autodidacte, je développe des applications pour monter en compétences, ce qui me permets d'être autonome et patient face aux diverses
 difficultées potentielles dans un environnement de travail.
 Je souhaite intégrer un environnement challengeant dans lequel je pourrai allier toutes mes compétences pour concevoir des produits innovants, les entreprises
