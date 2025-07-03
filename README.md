@@ -8,8 +8,9 @@ J'améliore actuellement mon niveau d'anglais et travaille sur une **application
 Je dispose d'une **certification** en **Data Science** orientée **Data Analysis**. [Cliquez ici pour voir le certficat](https://www.udacity.com/certificate/e/e10a09b2-3cdb-11ee-8363-ab5047940a23).
 
 **Contacts**
-- **_Tél. : 657 128 141 (WhatsApp) / 678 163 105_**
+- **_Tél. : 657 128 141 (WhatsApp) / 678 163 105/676 748 643_**
 - **_Email : narcisseisaker@gmail.com_**
+- [**Profil LinkedIn**](www.linkedin.com/in/narcisseisaker)
 
 
 
