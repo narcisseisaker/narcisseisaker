@@ -5,7 +5,7 @@ Je souhaite intégrer un environnement challengeant dans lequel je pourrai allie
 générant actuellement des quantités massives de données qu'il faut traiter et analyser en vue de proposer un produit à valeur ajoutée aux utilisateurs et anticiper
 sur leurs besoins futurs. J'aime relever les défis et travailler dans une entreprise axée sur le développement des compétences et la progression professionnelle.
 J'améliore actuellement mon niveau d'anglais et travaille sur une **application de gestion des Pokémons** en utilisant **Angular, PWA et Bootstrap**.
-Je dispose d'une **certification** en **Data Science** orientée **Data Analysis**. <a>**Voir le certificat ici**</a>
+Je dispose d'une **certification** en **Data Science** orientée **Data Analysis**. [Cliquez ici pour voir le certficat](https://www.udacity.com/certificate/e/e10a09b2-3cdb-11ee-8363-ab5047940a23).
 
 **Contacts**
 - **_Tél. : 657 128 141 (WhatsApp) / 678 163 105_**
