@@ -11,7 +11,7 @@ Je dispose d'une **certification** en **Data Science** orientée **Data Analysis
 **Contacts**
 - **_Tél. : 657 128 141 (WhatsApp) / 678 163 105/676 748 643_**
 - **_Email : narcisseisaker@gmail.com_**
-- [**Profil LinkedIn**](https://www.linkedin.com/in/narcisseisaker)
+- _[**Profil LinkedIn**](https://www.linkedin.com/in/narcisseisaker)
 
 
 
