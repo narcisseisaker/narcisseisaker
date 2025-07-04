@@ -4,7 +4,7 @@ difficultées potentielles dans un environnement de travail.
 Je souhaite intégrer un environnement challengeant dans lequel je pourrai allier toutes mes compétences pour concevoir des produits innovants, les entreprises
 générant actuellement des quantités massives de données qu'il faut traiter et analyser en vue de proposer un produit à valeur ajoutée aux utilisateurs et anticiper
 sur leurs besoins futurs. J'aime relever les défis et travailler dans une entreprise axée sur le développement des compétences et la progression professionnelle.
-J'améliore actuellement mon niveau d'anglais et travaille sur une **application de gestion des Pokémons** en utilisant **Angular, PWA, et Bootstrap**
+J'améliore actuellement mon niveau d'anglais et travaille sur une **application de gestion des Pokémons** en utilisant **Angular, PWA, et Bootstrap.** 
 [**Voir l'application**](https://angular-pokemon-management.web.app/).
 Je dispose d'une **certification** en **Data Science** orientée **Data Analysis**. [Cliquez ici pour voir le certficat](https://www.udacity.com/certificate/e/e10a09b2-3cdb-11ee-8363-ab5047940a23).
 
