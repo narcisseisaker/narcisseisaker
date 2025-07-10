@@ -1,4 +1,4 @@
-Je suis développeur **_Full_ _Stack_  _Java_ _8/17_, _Spring_ _Boot_ et _Angular 12/20_**, titulaire d'un **Master of Science en Réseaux et Services Distribués** obtenu à l'Université de Dschang au Cameroun. Je suis spécialisé dans le **développement d'applications distribuées** et m'intéresse au **développemnt d'applications web, mobile et Data analysis**.
+Je suis développeur **_Full_ _Stack_  _Java_ _8/17_, _Spring_ _Boot_ et _Angular 12/20_**, titulaire d'un **Master of Science en Réseaux et Services Distribués** obtenu à l'Université de Dschang au Cameroun. Je suis spécialisé dans le **développement d'applications distribuées** et m'intéresse au **développemnt d'applications web et  mobile, puis au DevOps et Data analysis**.
 Passionné de l'autodidacte, je développe des applications pour monter en compétences, ce qui me permets d'être autonome et patient face aux diverses
 difficultées potentielles dans un environnement de travail.
 Je souhaite intégrer un environnement challengeant dans lequel je pourrai allier toutes mes compétences pour concevoir des produits innovants, les entreprises
